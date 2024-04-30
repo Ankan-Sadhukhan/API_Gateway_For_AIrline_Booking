@@ -6,7 +6,7 @@ const axios = require('axios');
 
 const app = express();
 
-const PORT =3006;
+const PORT =3005;
 
 app.use(morgan('combined'))
 
